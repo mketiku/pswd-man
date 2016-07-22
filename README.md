@@ -1,40 +1,43 @@
-# toptal-electron-loki-demo
+## PSWD-MAN
 
-A password keychain desktop app built with Electron & Loki.js.
+A simple password keychain application using Electron, Angular and Loki.JS
+### Prerequisities
 
-## Prerequisites
+* [Node.js](https://nodejs.org/) v4+ to run.
 
- - Install the Electron NPM package globally:
-
-```shell
-npm install -g electron-prebuilt
+You also need Gulp, Bower and Electron installed globally:
+```sh
+$ sudo npm install -g bower electron-prebuilt gulp
 ```
 
-Also install Gulp & Bower, if you do not already have them:
-
-```shell
-npm install -g gulp bower
+#### Installation
+Clone this repo
+```sh
+$ git clone <this repo>
+$ cd <this repo> 
 ```
-
-## Install
-
-```shell
-cd /path/to/toptal-electron-loki-demo/
-npm i
-cd src/
-npm i && bower i
+Then run the following
+```sh
+$ npm install 
 ```
+This will install dependencies and start a web server on port 8000.
 
-## Run the app
 
-```shell
-cd /path/to/toptal-electron-loki-demo/
-npm start
+### Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+See deployment for notes on how to deploy the project on a live system.
+
+```sh
+$ npm start
 ```
+Open your browser to [localhost:8000](localhost:8000)
 
-## Build the distribution files
+### Deployment
+To deploy pswd-man , copy the contents of the app folder to your remote server.
+a
+### Built With
+* gulp
+* node 
+* npm
 
-```shell
-cd /path/to/toptal-electron-loki-demo/
-npm run dist
-```
+### Acknowledgments

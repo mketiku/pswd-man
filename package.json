@@ -1,7 +1,7 @@
 {
-  "name": "toptal-electron-loki-demo",
-  "version": "1.0.1",
-  "description": "A Desktop App Built with Electron & Loki.js",
+  "name": "pswd-man",
+  "version": "0.0.1",
+  "description": "A simple password keychain application using Electron, Angular and Loki.JS",
   "main": "src/app.js",
   "scripts": {
     "start": "electron ./src",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephanepericat/toptal-electron-loki-demo.git"
+    "url": "git+https://github.com/mketiku/pswd-man.git"
   },
   "keywords": [
     "toptal",
     "electron",
     "loki"
   ],
-  "author": "Stéphane P. Péricat <stephane@toptal.com>",
+  "author": "Michael Ketiku",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stephanepericat/toptal-electron-loki-demo/issues"
+    "url": "https://github.com/mketiku/pswd-man/issues"
   },
-  "homepage": "https://github.com/stephanepericat/toptal-electron-loki-demo#readme",
+  "homepage": "https://github.com/mketiku/pswd-man#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-electron": "0.0.9"
