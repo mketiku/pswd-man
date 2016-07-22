@@ -1,0 +1,6 @@
+{
+  "name": "pswd-man",
+  "tagline": "",
+  "body": "## PSWD-MAN\r\n\r\n### Prerequisities\r\n\r\n* [Node.js](https://nodejs.org/) v4+ to run.\r\n\r\nYou also need Gulp installed globally:\r\n```sh\r\n$ sudo npm install gulp -g\r\n```\r\n\r\n#### Installation\r\nClone this repo\r\n```sh\r\n$ git clone <this repo>\r\n$ cd <this repo> \r\n```\r\nThen run the following\r\n```sh\r\n$ npm install \r\n```\r\nThis will install dependencies and start a web server on port 8000.\r\n\r\n\r\n### Getting Started\r\nThese instructions will get you a copy of the project up and running on your local machine for development and testing purposes.\r\nSee deployment for notes on how to deploy the project on a live system.\r\n\r\n```sh\r\n$ npm start\r\n```\r\nOpen your browser to [localhost:8000](localhost:8000)\r\n\r\n### Deployment\r\nTo deploy pswd-man , copy the contents of the app folder to your remote server.\r\n\r\n### Built With\r\n* gulp\r\n* node \r\n* npm\r\n\r\n### Acknowledgments\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
