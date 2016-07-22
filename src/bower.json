@@ -1,0 +1,23 @@
+{
+  "name": "pswd-man",
+  "description": "A simple password keychain application using Electron, Angular and Loki.JS\"",
+  "main": "app.js",
+  "authors": [
+    "Michael Ketiku"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "keychain",
+    "password",
+    "electron",
+    "angular"
+  ],
+  "homepage": "https://github.com/mketiku/pswd-man",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
