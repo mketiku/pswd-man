@@ -1,5 +1,6 @@
 ## PSWD-MAN
 
+A simple password keychain application using Electron, Angular and Loki.JS
 ### Prerequisities
 
 * [Node.js](https://nodejs.org/) v4+ to run.
